@@ -3,14 +3,24 @@
   "version": "1.0.0",
   "description": "useDefinedSearchParams is a very thin layer above the useSearchParams hook from react-router-dom. It allows you to define the search params that you want to use and it will return an object with the values of those params.",
   "main": "index.ts",
+  "author": "Karlo Šimić",
+  "repository": "karlo-simic/defined-search-params",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "ISC",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "react hooks",
+    "typescript",
+    "npm",
+    "react-router-dom",
+    "search params",
+    "useSearchParams"
+  ]
 }
